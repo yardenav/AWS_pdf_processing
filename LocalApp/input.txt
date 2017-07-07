@@ -1,0 +1,3 @@
+﻿ToImage	http://www.pdf995.com/samples/pdf.pdf
+ToText	http://www.pdf995.com/samples/pdf.pdf
+ToHTML	http://www.pdf995.com/samples/pdf.pdf
